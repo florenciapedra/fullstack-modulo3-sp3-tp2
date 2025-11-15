@@ -1,0 +1,26 @@
+{
+  "name": "fullstack-modulo3-sp3-tp2",
+  "version": "1.0.0",
+  "description": "Este repositorio contiene la estructura de un proyecto desarrollado con Node.js, Express y MongoDB:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/florenciapedra/fullstack-modulo3-sp3-tp1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/florenciapedra/fullstack-modulo3-sp3-tp1/issues"
+  },
+  "homepage": "https://github.com/florenciapedra/fullstack-modulo3-sp3-tp1#readme",
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0",
+    "express-validator": "^7.3.0"
+  }
+}
